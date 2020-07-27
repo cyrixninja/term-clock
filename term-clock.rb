@@ -1,8 +1,4 @@
-#!/usr/bin/env ruby
-# Encoding: UTF-8
-# Frozen_string_literal: false
-# Written by Sourav Goswami
-# MIT Licence
+
 $-v = true
 
 Warning.warn("Detected system is probably not a Linux (#{RUBY_PLATFORM}) or you are not running MRI. This could cause issues.\n") || sleep(1) unless /linux/ === RUBY_PLATFORM
