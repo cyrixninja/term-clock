@@ -1,2 +1,2 @@
 # term-clock
-For Raspberry Pi
+Terminal Clock made for Raspberry Pi
